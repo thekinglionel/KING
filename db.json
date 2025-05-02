@@ -1,0 +1,56 @@
+{
+  "utilisateurs": [
+    {
+      "id": "f0eb",
+      "nomUtilisateur": "king",
+      "mailUtilisateur": "lionel@gmail.com",
+      "motDePasse": "kingkk",
+      "motDePasseConfirmation": "kingkk"
+    },
+    {
+      "id": "4310",
+      "nomUtilisateur": "lionel",
+      "mailUtilisateur": "thekinglionel39@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456"
+    }
+  ],
+  "publications": [
+    {
+      "id": "ee39",
+      "textePublication": "king bonjour et bonne evolution sous la grace de DIEU",
+      "imagePublication": "",
+      "idUtilisateur": "4310",
+      "datePublication": "2025-05-02T14:35:58.953Z",
+      "likePublication": 0,
+      "auteur": "lionel"
+    },
+    {
+      "id": "5cd4",
+      "textePublication": "MERCI POUR CETTE JOURNEE MON DIEU",
+      "imagePublication": "",
+      "idUtilisateur": "4310",
+      "datePublication": "2025-05-02T14:37:18.872Z",
+      "likePublication": 0,
+      "auteur": "lionel"
+    },
+    {
+      "id": "8fa0",
+      "textePublication": "bonjou je suis la",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/etudiant-positif-peau-foncee-porte-dossiers-livre-pointe-expression-joyeuse-cote-sourire-pleines-dents_273609-23704.jpg?t=st=1745842600~exp=1745846200~hmac=75a216835caa92eee8a7dc80f277be2349e46d5e2130b34219444a289ae0a2e3&w=1380",
+      "idUtilisateur": "4310",
+      "datePublication": "2025-05-02T15:09:59.913Z",
+      "likePublication": 0,
+      "auteur": "lionel"
+    },
+    {
+      "id": "0b93",
+      "textePublication": "la phase de votre identification sest deroule ",
+      "imagePublication": "",
+      "idUtilisateur": "4310",
+      "datePublication": "2025-05-02T15:12:49.912Z",
+      "likePublication": 0,
+      "auteur": "lionel"
+    }
+  ]
+}
